@@ -60,6 +60,10 @@ Drillthrough
 
 Storytelling orientado à tomada de decisão
 
+## 🔗 Acesso ao Dashboard
+
+👉 [Clique aqui para acessar o dashboard interativo no Power BI](https://shre.ink/atendimento-emergencial)
+
 📌 Observação
 
 Este projeto utiliza dados fictícios e foi desenvolvido exclusivamente para fins demonstrativos, com foco em análise de dados, BI e visualização de informações para negócio.
